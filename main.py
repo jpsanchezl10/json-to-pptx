@@ -4,7 +4,7 @@ import json
 
 def main():
     # Read the JSON data
-    with open('./src/json/examples/presentation.json', 'r') as file:
+    with open('./src/json/presentation.json', 'r') as file:
         slides_data = json.load(file)
 
     # Create the presentation
