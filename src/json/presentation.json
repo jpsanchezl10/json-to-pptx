@@ -1,62 +1,74 @@
 [
   {
-    "slide": 0,
-    "title": "Ansible: Revolutionizing Network Automation",
-    "speech": "Welcome everyone. Today, we'll be discussing Ansible, a powerful tool that's transforming the landscape of network automation and infrastructure management. We'll explore its key features, impact on the industry, and how it's changing the way we manage network infrastructure.",
-    "image": "ansible logo"
-  },
-  {
     "slide": 1,
-    "title": "What is Ansible?",
-    "speech": "Ansible is an open-source automation tool that simplifies complex tasks in IT environments. It's agentless, using SSH for secure connections, and uses YAML for easy-to-read configuration files. Ansible is particularly powerful for network automation, configuration management, and application deployment.",
-    "image": "automation gears"
+    "title": "Learning Experience in Group Work",
+    "speech": "Working in a group this month taught me how to collaborate effectively on evaluating controls and control enhancements. We discussed various security, access, and cryptography controls, and the case study provided real-world context that guided our decisions. The mutual support and open discussion have prepared me for teamwork in my cybersecurity career.",
+    "image": "team collaboration cybersecurity discussion"
   },
   {
     "slide": 2,
-    "title": "Key Features of Ansible",
-    "speech": "Ansible offers several key features that make it stand out in network automation. These include its agentless architecture, which reduces overhead on managed nodes; its use of YAML for playbooks, making it human-readable and easy to learn; and its extensive module library, which provides pre-built automation for various tasks and devices.",
-    "image": "yaml code"
+    "title": "NIST 800-53 R5 Framework",
+    "speech": "The NIST 800-53 R5 framework was central to our control selection process. I learned to navigate its detailed security controls, which helped standardize our approach. Despite its complexity, it provided clear guidance for choosing effective controls. This experience has enhanced my ability to apply formal standards in real-world cybersecurity settings.",
+    "image": "NIST 800-53 R5 document highlighted"
   },
   {
     "slide": 3,
-    "title": "Ansible's Impact on Network Automation",
-    "speech": "Ansible has significantly impacted network automation by providing a unified platform for managing diverse network devices. It allows network engineers to automate repetitive tasks, reduce human errors, and manage configurations at scale. This has led to increased efficiency, faster deployment times, and improved consistency across network infrastructures.",
-    "image": "network switches"
+    "title": "Security Plans Discussion",
+    "speech": "We discovered that a robust Security Plan is essential for any organization. A comprehensive plan includes risk assessments, policy documentation, and regular updates derived from industry standards and internal audits. It helps the security team maintain order and guides the company in protecting its assets. This knowledge is key for SnowBe’s continuous improvement.",
+    "image": "security plan document computer screen"
   },
   {
     "slide": 4,
-    "title": "Changing Network Infrastructure Management",
-    "speech": "Ansible is changing how network infrastructure is managed by enabling Infrastructure as Code (IaC). This approach allows network configurations to be version-controlled, tested, and deployed consistently. It facilitates collaboration between network and development teams, supporting DevOps practices in network operations.",
-    "image": "infrastructure as code"
+    "title": "Security Policies",
+    "speech": "Security policies are formal documents that define how an organization protects its information. They outline roles, responsibilities, and procedures, ensuring consistent protection. I learned that for SnowBe, clear policies are crucial to manage access and protect sensitive customer data, ultimately building trust and ensuring regulatory compliance.",
+    "image": "security policy document folder"
   },
   {
     "slide": 5,
-    "title": "Ansible in Cloud Environments",
-    "speech": "As more organizations move to the cloud, Ansible proves invaluable in managing hybrid and multi-cloud environments. It provides modules for major cloud providers like AWS, Azure, and GCP, allowing seamless automation across on-premises and cloud infrastructures. This flexibility is crucial in today's distributed network landscapes.",
-    "image": "cloud computing"
+    "title": "Templates",
+    "speech": "Templates streamline the creation of security documents by providing a consistent format and ensuring that no essential element is missed. I learned that using templates saves time and minimizes errors. For SnowBe, templates help standardize policies and procedures, leading to a more efficient and reliable documentation process.",
+    "image": "document template design computer"
   },
   {
     "slide": 6,
-    "title": "Industry Adoption and Case Studies",
-    "speech": "Many organizations across various industries have adopted Ansible for network automation. For instance, a major telecom company reduced network configuration times by 90% using Ansible. Similarly, a large financial institution improved its compliance and security posture by automating network audits and updates with Ansible playbooks.",
-    "image": "business networking"
+    "title": "Roles, Responsibilities, and Relationships",
+    "speech": "Understanding the roles and relationships within an organization is critical. I learned that clearly defined roles help establish accountability and smooth collaboration between technical staff and management. At SnowBe, this clarity ensures that everyone knows their responsibilities, leading to more effective incident response and overall security management.",
+    "image": "organizational chart cybersecurity team"
   },
   {
     "slide": 7,
-    "title": "Challenges and Considerations",
-    "speech": "While Ansible offers numerous benefits, it's important to consider potential challenges. These may include the learning curve for teams new to automation, ensuring proper security practices in playbooks, and managing the transition from manual to automated processes. However, with proper training and implementation, these challenges can be effectively addressed.",
-    "image": "problem solving"
+    "title": "Change Control/Management Process",
+    "speech": "The change control process is essential for managing modifications to IT systems. I learned it involves careful planning, approval, implementation, and documentation to minimize risks. For SnowBe, a robust change management process is necessary to maintain system integrity and prevent disruptions, making it a key element of their cybersecurity strategy.",
+    "image": "change management process flowchart"
   },
   {
     "slide": 8,
-    "title": "Future of Ansible in Network Automation",
-    "speech": "Looking ahead, Ansible is poised to play an even larger role in network automation. We can expect deeper integration with AI and machine learning for predictive network management, enhanced support for emerging network technologies like SD-WAN and 5G, and continued improvement in cloud-native networking support.",
-    "image": "future technology"
+    "title": "Standards and Procedures",
+    "speech": "Standards set the expected security criteria, while procedures outline the steps to meet these standards. Together, they ensure a consistent approach to cybersecurity. I learned that for SnowBe, applying both standards and procedures helps streamline operations, improves security posture, and creates clear guidance for responding to threats.",
+    "image": "standards and procedures document"
   },
   {
     "slide": 9,
-    "title": "Conclusion: Embracing Ansible for Network Evolution",
-    "speech": "In conclusion, Ansible is a powerful tool that's reshaping network automation and infrastructure management. By embracing Ansible, organizations can achieve greater efficiency, consistency, and agility in their network operations. As we move towards more software-defined and cloud-based infrastructures, tools like Ansible will be crucial in managing the complexity and scale of modern networks.",
-    "image": "network automation"
+    "title": "Most Significant Learning",
+    "speech": "The most significant learning for me was understanding the importance of structured control selection using the NIST framework. This experience highlighted the need for rigorous documentation and a methodical approach to risk management. It will profoundly shape my future decisions, ensuring that I always align controls with comprehensive, real-world standards.",
+    "image": "light bulb idea cybersecurity learning"
+  },
+  {
+    "slide": 10,
+    "title": "Least Significant Learning",
+    "speech": "The least significant aspect was the detailed minutiae of template formatting. While consistency is important, these details had a smaller impact on overall security effectiveness compared to strategic control selection. I learned that focusing on high-level policy and control decisions is more critical, even though standardization remains valuable.",
+    "image": "minimalist design computer templates"
+  },
+  {
+    "slide": 11,
+    "title": "Decision Making and Feedback",
+    "speech": "Effective decision making in this class involved critical analysis and open feedback. I learned that providing and receiving constructive feedback improved my approach to complex cybersecurity issues. This process not only enhanced my individual skills but also contributed to better group outcomes, preparing me for collaborative decision-making in my future career.",
+    "image": "feedback session group discussion"
+  },
+  {
+    "slide": 12,
+    "title": "Conclusion and Final Thoughts",
+    "speech": "In conclusion, this month has been transformative. I gained practical insights into control selection, policy development, and effective teamwork. These experiences have strengthened both my technical and soft skills, equipping me to contribute confidently as a cybersecurity professional. I look forward to applying these lessons in real-world environments.",
+    "image": "conclusion slide summary cybersecurity"
   }
 ]
